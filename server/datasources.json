@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "Test": {
+    "host": "mongodb.net",
+    "port": 27017,
+    "url": "full connection url",
+    "database": "test",
+    "password": "a password would be here (this is not real)",
+    "name": "Test",
+    "user": "user",
+    "connector": "mongodb"
+  }
+}
